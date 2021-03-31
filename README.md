@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning Java and Python.
 - 💞️ I’m not looking to collaborate now.
-- 📫 How to reach me <7008448068>
+- 📫 How to reach me <smrutiomm4@gmail.com>
 
 <!---
 SmrutiRanjan-L/SmrutiRanjan-L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
