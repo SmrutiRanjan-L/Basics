@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SmrutiRanjan-L
+- 👋 Hi, I’m Smruti Ranjan Lenka.
 - 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently learning Java and Python.
 - 💞️ I’m not looking to collaborate now.
