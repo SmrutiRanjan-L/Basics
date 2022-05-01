@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Smruti Ranjan Lenka.
-- 👀 I’m interested in Artificial Intelligence.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning Java and Python.
-- 💞️ I’m not looking to collaborate now.
 - 📫 How to reach me <smrutiomm4@gmail.com>
 
 <!---
