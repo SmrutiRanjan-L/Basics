@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(226, 147, 10);
+}
+.a {
+    background-color: yellow;
+    /* position: absolute; */
+    text-align: center;
+}
+.b {
+    position: absolute;
+    left: 500px;
+}
